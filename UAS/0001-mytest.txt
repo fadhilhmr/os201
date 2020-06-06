@@ -1,22 +1,26 @@
-Script started on Sat 06 Jun 2020 11:27:12 AM WIB
+Script started on Sat 06 Jun 2020 11:49:56 AM WIB
 fadhil.ilham@badak:~$ PS1="$ "
 $ echo $GitHubUser
 fadhilhmr
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200606-112756-1c6f-fadhil.ilham/>
+200606-115026-9291-fadhil.ilham/>
 $ PS1="\$(eval \$PSTAMP)"
-200606-112812-a6c4-fadhil.ilham/> date
-Sat Jun  6 11:28:16 WIB 2020
-200606-112816-58fb-fadhil.ilham/> gpg2 --list-keys
+200606-115033-c2fc-fadhil.ilham/> date
+Sat Jun  6 11:50:48 WIB 2020
+200606-115048-e15b-fadhil.ilham/> gpg2 --list-keys
 /home/fasilkom/mahasiswa/f/fadhil.ilham/.gnupg/pubring.gpg
 ----------------------------------------------------------
 pub   4096R/E1B325CC 2020-06-06 [expires: 2021-06-06]
 uid       [ultimate] Fadhil Ilham Rahmadi (OS201 C 1806191194 fadhilhmr Fadhil Ilham Rahmadi) <fadhilhmr@gmail.com>
 sub   4096R/E2D73102 2020-06-06 [expires: 2021-06-06]
 
-200606-112832-e624-fadhil.ilham/> exit
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+200606-115056-3505-fadhil.ilham/> exit
 exit
 
-Script done on Sat 06 Jun 2020 11:28:38 AM WIB
+Script done on Sat 06 Jun 2020 11:51:12 AM WIB
