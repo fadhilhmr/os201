@@ -16,4 +16,4 @@ Untuk memmehuni kriteria ujian akhir dari mata kulias Sistem Operasi, saya membu
 
 #### Hubungi saya!!
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-square-set/960/Twitter_Sq-512.png" alt="IMG-1" border="0" widht="20px">](https://twitter.com/fadhilhmr) 
+[<img src="https://cdn3.iconfinder.com/data/icons/inside/PNG/256x256/icontexto-inside-twitter.png" alt="IMG-1" border="0" widht="20px">](https://twitter.com/fadhilhmr) 
