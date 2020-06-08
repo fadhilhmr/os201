@@ -5,7 +5,8 @@
 Yang anda lihat sekarang adalah salah satu bentuk tugas ujian akhir dari Sistem Operasi, jadi selamat datang!
 
 ### Diri saya 
-[<a href="https://ibb.co/GQHjsS3"><img src="https://i.ibb.co/m5N7vWF/we.jpg" alt="we" border="0"></a>](https://www.linkedin.com/in/fadhil-ilham-a12105180/) 
+[<a href="https://ibb.co/GQHjsS3"><img src="https://i.ibb.co/m5N7vWF/we.jpg" alt="we" border="0"></a>](https://www.linkedin.com/in/fadhil-ilham-a12105180/)
+---
 Nama Saya Fadhil Ilham Rahmadi, biasa dipanggil Fadhil, saya adalah mahasiswa Fasilkom UI jurusan Sistem Informasi 2018.
 
 Untuk memmehuni kriteria ujian akhir dari mata kulias Sistem Operasi, saya membuat github page ini untuk berbagi mengenai diri saya dan juga apa yang saya pelajari!
